@@ -14,4 +14,3 @@ testing for operating git with github.
 * hatiro
 * quro
 * jouro
-* and so on...
