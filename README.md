@@ -1,4 +1,5 @@
 # git-test
+
 testing for operating git with github.
 
 # Editors
@@ -14,3 +15,10 @@ testing for operating git with github.
 * hatiro
 * quro
 * jouro
+
+# Heading
+
+1. one
+1. two
+1. three
+
